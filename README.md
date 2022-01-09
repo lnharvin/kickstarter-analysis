@@ -9,10 +9,10 @@ To help Louise analysis given data in hopes creating a successful campaign.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-[chart link](https://github.com/lnharvin/kickstarter-analysis/blob/6b1528c294ac224f93e1a2d481890be2c9e23bca/Resources/Theater_Outcomes_vs_Launch.png)
+[Theater_Outcomes_vs_Launch](https://github.com/lnharvin/kickstarter-analysis/blob/6b1528c294ac224f93e1a2d481890be2c9e23bca/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-(Resources/Outcomes_vs_Goals.png)
+[Outcomes_vs_Goals](https://github.com/lnharvin/kickstarter-analysis/blob/6b1528c294ac224f93e1a2d481890be2c9e23bca/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Formatting charts is a lot more difficult than I imagined.
