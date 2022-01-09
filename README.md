@@ -27,7 +27,7 @@ The month of May had the best rate for a successful campaign. The chance of havi
 ![Theater_Outcomes_vs_Launch](https://github.com/lnharvin/kickstarter-analysis/blob/6b1528c294ac224f93e1a2d481890be2c9e23bca/Resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
-Campaigns with goals less than a $1K or in the range of $35,00 to $49,999 were pretty successful with 67-76% rates. Any campaign over $45,000 had a high failure rate.
+Campaigns with goals less than a $1K or in the range of $35,00 to $44,999 were pretty successful with 67-76% rates. Any campaign with goals over $45,000 had a high failure rate.
 ![Outcomes_vs_Goals](https://github.com/lnharvin/kickstarter-analysis/blob/becb1ecfba9d5820957faca30d7c35c00c849403/Resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
