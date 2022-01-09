@@ -11,6 +11,7 @@ To help Louise analysis given data in hopes creating a successful campaign.
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
+(Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Formatting charts is a lot more difficult than I imagined.
