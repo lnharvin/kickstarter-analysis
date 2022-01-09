@@ -1,7 +1,7 @@
 # Discovering Trends with Kickstarter Analysis in Excel
 
 ## Overview of Project: 
-Use Excel tools to analysis data and create visualization charts of that data.
+Use Excel tools to analysis the kickstarter dataset and create visualization charts of that data.
 
 ### Purpose: 
 To help Louise analysis given data in hopes launching a successful campaign in the United States.
