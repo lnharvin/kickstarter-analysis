@@ -4,7 +4,7 @@
 Use Excel tools to analysis data and create visualization charts of that data.
 
 ### Purpose: 
-To help Louise analysis given data in hopes creating a successful campaign.
+To help Louise analysis given data in hopes launching a successful campaign in the United States.
 
 ## Analysis and Challenges
 
