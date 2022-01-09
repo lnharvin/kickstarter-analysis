@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Discovering Trends with Kickstarter Analysis in Excel
 
 ## Overview of Project: 
 Use Excel tools to analysis data and create visualization charts of that data.
