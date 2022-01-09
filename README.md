@@ -18,7 +18,7 @@ The most successful month to launch a campaign was in March. The worst was Decem
 Campaigns with goals less than a $1K or in the range of $35,00 to $49,999 were successful with 67%-76% rates. There were no plays canceled at any goal range.
 
 ### Challenges and Difficulties Encountered
-I've discovered that writing this final analysis is more difficult than formatting charts and that was more difficult enough.
+I've discovered that writing this final analysis just as difficult as formatting charts.
 
 ## Results
 
