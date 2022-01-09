@@ -7,7 +7,7 @@ Use Excel tools to analysis the kickstarter dataset and create visualization cha
 To help Louise analysis the given data in hopes of launching a successful campaign in the United States.
 
 ## Analysis and Challenges
-The kickstarter data is simple and easy to work with. Pivot and line charts will be included in this analysis.
+The kickstarter data is simple and easy to work with. Pivot tables and a line charts will be included in this analysis.
 
 Using formulas was tricky, double check your results on more than one row by filtering the original dataset and verifying the values match before duplicating it's use. A simple typo in my formula caused me to waste time and produced false results, luckily it was on the first row and the value stuck out like a sore thumb for the others.
 
