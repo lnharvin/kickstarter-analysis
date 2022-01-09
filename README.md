@@ -18,7 +18,7 @@ Formatting charts is a lot more difficult than I imagined.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-It appears campaigns started in May are more successful.
+  It appears campaigns started in May are more successful.
 
 - What can you conclude about the Outcomes based on Goals?
 Campaigns with goals less than a one thousand dollars and in the range of thirty-five thousand to forty-four nine hundred ninety-nine thousand were pretty successful.
